@@ -1,8 +1,8 @@
-#CodeSnip
+# CodeSnip
 
 CodeSnip is a web-based development environment and social community for front-end web developers to showcase their work, experiment with new technologies and tools, and collaborate with others. It allows developers to write HTML, CSS, and JavaScript code in a live preview environment, enabling them to see the results of their work immediately.
 
-#Website link 
+# Website link 
 https://sunny-gupta-187.netlify.app/
 
 
